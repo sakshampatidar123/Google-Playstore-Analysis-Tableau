@@ -59,13 +59,15 @@ This project focuses on analyzing Google Play Store applications using Tableau t
 
 ## 🔗 Tableau Public Dashboard
 
-[View Live Dashboard](https://public.tableau.com/views/TableauDashboard_17749141899600/GooglePlayStoreReviewAnalysis?:language=en-  GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Live Dashboard]
+(https://public.tableau.com/views/TableauDashboard_17749141899600/GooglePlayStoreReviewAnalysis?:language=en-  GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
 ## 📷 Dashboard Preview
 
-[Dashboard Screenshot](https://github.com/sakshampatidar123/Google-Playstore-Analysis-Tableau/blob/main/Google%20Play%20Store%20Review%20Analysis%20Dashboard.png?raw=true)
+[Dashboard Screenshot]
+(https://github.com/sakshampatidar123/Google-Playstore-Analysis-Tableau/blob/main/Google%20Play%20Store%20Review%20Analysis%20Dashboard.png?raw=true)
 
 ---
 
