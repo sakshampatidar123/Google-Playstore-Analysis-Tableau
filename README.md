@@ -1,4 +1,4 @@
-# Google-Playstore-Analysis-Tableau
+# Google Play Store Data Analysis using Tableau
 
 ## 📌 Project Overview
 
@@ -78,5 +78,9 @@ This project helped in developing strong skills in data visualization, dashboard
 ## 📁 Dataset
 
 The dataset contains information about Google Play Store apps, including details like category, rating, reviews, installs, type, and sentiment.
+
+---
+
+This project demonstrates the ability to transform raw data into actionable insights using interactive dashboards.
 
 
